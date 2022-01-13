@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0cd06ff-691c-4d33-b432-45035f96d455": {
+      "ProjectGuid": "f0cd06ff-691c-4d33-b432-45035f96d455",
+      "DisplayName": "3 Phase Rectifer Testing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
