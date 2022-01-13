@@ -1,0 +1,11 @@
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\3 Phase Rectifer Testing.csproj.AssemblyReference.cache
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\3 Phase Rectifer Testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\_3_Phase_Rectifer_Testing.Form1.resources
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\_3_Phase_Rectifer_Testing.Properties.Resources.resources
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\3 Phase Rectifer Testing.csproj.GenerateResource.cache
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\3 Phase Rectifer Testing.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\bin\Debug\3 Phase Rectifer Testing.exe.config
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\bin\Debug\3 Phase Rectifer Testing.exe
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\bin\Debug\3 Phase Rectifer Testing.pdb
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\3 Phase Rectifer Testing.exe
+C:\Users\Joshua\Desktop\3 Phase Rectifer Testing\3 Phase Rectifer Testing\obj\Debug\3 Phase Rectifer Testing.pdb
